@@ -1,13 +1,20 @@
 # Hi, I’m Priya 👋
 
-I’m building practical web applications and learning through hands-on projects.
+I’m an aspiring cybersecurity professional, learning through hands-on projects and practical security research.
 
-## Featured project
+## Interests
+
+- Cybersecurity fundamentals
+- Web and application security
+- Network security
+- Ethical hacking and secure development
+
+## Current project
 
 - **Face Attendance** — a web-based attendance project with a deployed frontend and backend.
 
 ## What I’m working on
 
-- Improving full-stack development skills
-- Building clean, useful projects
-- Learning deployment and API integration
+- Building cybersecurity skills through labs and projects
+- Learning secure coding and vulnerability assessment
+- Developing a professional security-focused portfolio
