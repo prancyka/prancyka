@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I’m Priya 👋
 
-<!--
-**prancyka/prancyka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m building practical web applications and learning through hands-on projects.
 
-Here are some ideas to get you started:
+## Featured project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Face Attendance** — a web-based attendance project with a deployed frontend and backend.
+
+## What I’m working on
+
+- Improving full-stack development skills
+- Building clean, useful projects
+- Learning deployment and API integration
