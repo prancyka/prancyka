@@ -9,9 +9,15 @@ I’m an aspiring cybersecurity professional, learning through hands-on projects
 - Network security
 - Ethical hacking and secure development
 
-## Current project
+## Featured cybersecurity projects
 
-- **Face Attendance** — a web-based attendance project with a deployed frontend and backend.
+- [Cybersecurity Notes](https://github.com/prancyka/cybersecurity-notes) — structured notes and safe learning resources.
+- [Security Labs](https://github.com/prancyka/security-labs) — legal lab write-ups and defensive lessons.
+- [File Integrity Monitor](https://github.com/prancyka/file-integrity-monitor) — a defensive Python tool that baselines and verifies file hashes.
+
+## Other project
+
+- [Face Attendance](https://github.com/prancyka/face-attendance) — a web-based attendance project with a deployed frontend and backend.
 
 ## What I’m working on
 
